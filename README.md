@@ -103,9 +103,15 @@ To access most endpoints, you need to authenticate with a Bearer token obtained 
 ## Documentation
 > [!TIP]
 > Explore the API using Spring JavaDoc Swagger at http://localhost:8080/swagger-ui/index.html#/.
+<p>  Swagger Map of Spring JavaDoc </p>
+
+![Swagger forohub](https://github.com/luchiobv/Tech-ForoHub/assets/128253160/05bdfa35-2f3c-4f60-b42a-3218bf306a54)
+
 <p>  Database Map </p>
 
 ![dba foro hub](https://github.com/luchiobv/Tech-ForoHub/assets/128253160/7c1bb9db-2311-4d05-bc6e-adeaacdf2d20)
+
+
 
 
 
@@ -228,6 +234,10 @@ Para acceder a la mayoría de los endpoints, necesitas autenticarte con un token
 ## Documentación
 > [!TIP]
 > Explora la API utilizando Spring JavaDoc Swagger en http://localhost:8080/swagger-ui/index.html#/.
+<p>  Swagger Map para Spring JavaDoc </p>
+
+![Swagger forohub](https://github.com/luchiobv/Tech-ForoHub/assets/128253160/05bdfa35-2f3c-4f60-b42a-3218bf306a54)
+
 <p> Mapa de la base de datos </p>
 
 ![dba foro hub](https://github.com/luchiobv/Tech-ForoHub/assets/128253160/7c1bb9db-2311-4d05-bc6e-adeaacdf2d20)
